@@ -7,7 +7,7 @@ Projeto Prático do Curso de Introdução ao Node.js com a instrutora **Diana Ma
 
 Contato da Instrutora: https://github.com/DianaMartine
 
-**Criação de um servidor que recupera informções de hardware e gerenciamento de memória RAM**
+**Criação de um servidor que recupera informações de hardware e gerenciamento de memória RAM**
 
 Programas necessários para a realização do projeto: Node.js, NPM e VSCode
 
